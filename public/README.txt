@@ -1,1 +1,0 @@
-Ce dossier public est nécessaire pour satisfaire Vercel.
